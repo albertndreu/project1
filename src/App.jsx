@@ -4,7 +4,7 @@ import JitsiComponent from './JitsiComponent';
 const App = () => {
   return (
     <div>
-     
+     <JitsiComponentNew></JitsiComponentNew>
       
     </div>
   );
